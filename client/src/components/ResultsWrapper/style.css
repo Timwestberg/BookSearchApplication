@@ -1,0 +1,41 @@
+div#ResultsWrapper  {
+  min-height: 200px;
+  max-height: auto;
+}
+
+div#ResultsWrapper h1 {
+  margin: 25px;
+  margin-left: 7.5%;
+}
+
+div.ResultsCard {
+  height: 200px;
+  width: 100%;
+  margin-bottom: 2.5%;
+  border: solid black 2px;
+}
+
+div.ImageDiv    {
+  height: 100%;
+  overflow-y: hidden;
+}
+
+div.InfoDiv    {
+  height: auto;
+}
+
+p.ResultDescription {
+  max-height: 50%;
+  overflow-x: hidden; 
+  overflow-y: scroll;
+}
+
+img {
+  min-width: 99%;
+  min-height: 95%;
+}
+
+button.ResultOption {
+  width: 100%;
+  height: 50%;
+}

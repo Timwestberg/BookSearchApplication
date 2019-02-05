@@ -1,0 +1,7 @@
+div#Hero    {
+    height: 150px;
+    background-color: grey;
+    color: blue;
+    text-align: center;
+    padding-top: 25px;
+}

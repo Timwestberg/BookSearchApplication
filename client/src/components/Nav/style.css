@@ -1,0 +1,12 @@
+div.NavBar {
+    background-color: black;
+    color: blue;
+    height: 60px;
+    padding-top: 18px;
+}
+a.NavBarOption  {
+    margin: 25px;
+}
+a#LeftOption   {
+    margin-left: 80%;
+}

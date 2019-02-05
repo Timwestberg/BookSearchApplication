@@ -1,0 +1,15 @@
+
+div#SearchDiv   {
+    height: 160px;
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+}
+div#SearchDiv h1 {
+    margin-left: 7.5%;
+}
+
+input#SearchBar {
+    margin-left: 7.5%;
+    width: 70%;
+}
